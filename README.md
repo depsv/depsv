@@ -3,9 +3,9 @@ I'm Debby Prasetyady, I am very interested in programming, and I am currently st
 | Rank | Languages | Platform |
 |-----:|-----------|----------|
 |     1| PHP       | Laravel  |
-|     2| Dart      | Flutter  |
+|     2| SQL       |          |
 |     3| Javascript|          |
-|     4| SQL       |          |
+|     4| Dart      | Flutter  |
 
 I graduated with a bachelor's degree majoring in informatics engineering with a GPA of 3.01 out of 4 at Siliwangi University and had a project management certificate (ICT Management) from 2018 to 2021 through the Professional Certification Institute at my campus in collaboration with the National Professional Certification Agency (BNSP).
 
